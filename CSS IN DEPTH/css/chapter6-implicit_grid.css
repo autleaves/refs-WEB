@@ -10,6 +10,8 @@ body {
     grid-auto-rows: 1fr;
     grid-gap: 1em;
     grid-auto-flow: dense;
+    max-width: 1024px;
+    margin: 0 auto;
 }
 .portfolio .featured {
     grid-row: span 2;
