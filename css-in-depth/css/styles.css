@@ -1,0 +1,33 @@
+body header h1 {
+    color: cyan;
+}
+html body header h1 {
+    color: blue;
+}
+
+body header.page-header h1 {
+    color: orange;
+}
+
+.page-header .title {
+    color: green;
+}
+
+#page-title {
+    color: red;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    text-decoration: underline;
+    color: cyan;
+}
+a:active {
+    color: red;
+}
