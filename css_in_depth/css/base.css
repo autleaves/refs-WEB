@@ -1,19 +1,19 @@
 @charset "utf-8";
 :root {
-    box-sizing: border-box;
+    box-sizing: border-box;     /*testtesttesst*/
 }
 @media (min-width: 800px) {
     :root {
-        font-size: 0.875em;
+        font-size: 0.875em;/*testtesttesst*/
     }
 }
 @media (min-width: 1200px) {
     :root {
-        font-size: 1em;
+        font-size: 1em;/*testtesttesst*/
     }
 }
 *, ::before, ::after {
-    box-sizing: inherit;
+    box-sizing: inherit;/*testtesttesst*/
 }
 body {
     background-color: #709b90;
